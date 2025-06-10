@@ -26,4 +26,4 @@ Este projeto está sob a licença MIT — uso livre com atribuição.
 
 ---
 
-> 🌱 Criado com carinho por Shirley Muiambo, com apoio do ChatGPT.
+> 🌱 Criado com carinho por Shirley Celina Ramiro Muiambo.
